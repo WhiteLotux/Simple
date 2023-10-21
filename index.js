@@ -5,7 +5,7 @@ const port = 3000;
 app.get('/', (req, res) => {
   res.send(`Omar Pimentel <br>
             C.I: V.- 28.050.922 <br>
-            Programacion III Seccion "3"`);
+            Programacion III Seccion "1"`);
 });
 
 app.listen(port, () => {
